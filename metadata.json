@@ -1,0 +1,5 @@
+{
+  "name": "SmartInventory Pro",
+  "description": "A comprehensive inventory management system supporting multi-warehouse logic, matrix-based department transactions, and data export.",
+  "requestFramePermissions": []
+}
